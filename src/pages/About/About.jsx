@@ -8,17 +8,15 @@ const About = () => {
       <div className="about-container">
         <div className="about-left" data-aos = "fade-up">
           <p className="about-desc">
-            An undergraduate student with a focused and enlightened personality
+            Highly technical and knowledgeable individual with a focused and enlightened personality
             with a decent skill set in frontend technologies and android apps.
             <br />
-            <br />
-            Being Enthusiastic, he is splendid at communication additionally, he
-            bagged ample work experience by being a part of a few student
-            organizations at LPU and can be the best fit to play a vital role as
-            a team lead.
+            <br />Being enthusiastic, I am splendid at communication. Moreover, 
+            I've garnered significant experience from working on various projects. 
+            I believe I can be the best fit to play a vital role as a team lead.
             <br />
             <br />
-            As per the technical skills, he has a good understanding of core
+            As per the technical skills, I has a good understanding of core
             concepts in computer science and engineering like OOPS, DBMS, OS,
             and Networking as well as technologies like HTML5, CSS3,
             JavaScript, Django, Flutter, and ReactJs.

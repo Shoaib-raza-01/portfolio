@@ -1,8 +1,8 @@
 let projects = [
     {
-        "title": "OJAS Assignment",
+        "title": "Krishi App",
 
-        "name":"Ojas assignment",
+        "name":"Krishi App",
 
         "description": [
             "Developed a robust Flutter-based application offering farmers to order services with an elegant user interface.",
@@ -38,6 +38,48 @@ let projects = [
 
         "github_repo_link": "https://github.com/Shoaib-raza-01/mongoose-task-app"
     },
+    {
+        "title": "IQRA",
+
+        "name":"IQRA - An e-learning platform ",
+
+        "description": [
+            "Developed an application tha can help studens understand important concepts easily.",
+            "Leverages the firebase for storing courses",
+            "Integrated with Razorpay payment gatway, ensuring secure access control and data protection.",
+        ],
+
+        "skills":[
+            "Flutter",
+            "API Integration",
+            "Firebase"
+        ],
+
+        // "webapp_live_link": "",
+
+        "github_repo_link": "https://github.com/Shoaib-raza-01/flutter-e-learning-app"
+    },
+    {
+        "title": "E-commerce application",
+
+        "name":"BuyItNow",
+
+        "description": [
+            "Ecommerce mobile app that comes with all features and improved customers' shopping experience.",
+            "Interactive UI and better search experience which supports all type of products.",
+            "Comes with push notifications and supports dark mode."
+        ],
+
+        "skills":[
+            "Flutter",
+            "Firebase",
+            "Google API"
+        ],
+
+        // "webapp_live_link": "",
+
+        "github_repo_link": "https://github.com/Shoaib-raza-01/ecommerce-app"
+    }
     // {
     //     "title": "Blood Donation Portal",
 

@@ -16,7 +16,7 @@ const Experience = () => {
           </section>
 
           <section className="title-section">
-            <h2 className="role">Flutter Intern</h2>
+            <h2 className="role">Flutter</h2>
             <span className="duration">Sept'23 - Oct'23</span>
           </section>
 

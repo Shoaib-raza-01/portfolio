@@ -37,9 +37,9 @@ const Header = () => {
         <a href="#about" className="navlink">
           About
         </a>
-        <a href="#experience" className="navlink">
+        {/* <a href="#experience" className="navlink">
           Experience
-        </a>
+        </a> */}
         <a href="#projects" className="navlink">
           Projects
         </a>
@@ -74,7 +74,7 @@ const Header = () => {
             </a>
             <hr className="mobile-navlink-divider" />
           </div>
-          <div className="mobile-navlink-wrapper">
+          {/* <div className="mobile-navlink-wrapper">
             <a
               href="#experience"
               className="mobile-navlink"
@@ -84,7 +84,7 @@ const Header = () => {
               <span>Experience</span>
             </a>
             <hr className="mobile-navlink-divider" />
-          </div>
+          </div> */}
 
           <div className="mobile-navlink-wrapper">
             <a

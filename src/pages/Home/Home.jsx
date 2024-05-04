@@ -8,7 +8,7 @@ const Home = () => {
 
       <h1 className="name">Md Shoaib Raza</h1>
 
-      <span className="job-role">Full Stack Developer</span>
+      <span className="job-role">Android Developer</span>
 
       <div className="actions-div">
         <a

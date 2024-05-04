@@ -1,2 +1,1 @@
-https://benevolent-wisp-dc1c1c.netlify.app/
-
+https://portfolioshoib.netlify.app/

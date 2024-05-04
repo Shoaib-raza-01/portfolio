@@ -29,7 +29,7 @@ const Header = () => {
     <header className="header-bg">
       <div className="logo-div">
         <span className="logo-text" onClick={goToTop}>
-          SN
+          SR
         </span>
       </div>
 

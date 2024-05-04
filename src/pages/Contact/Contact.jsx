@@ -56,14 +56,14 @@ const Contact = () => {
           </form>
         </div>
         <div className="contact-right" data-aos="fade-up">
-          <a className="icon-div" href="tel:+91897545846">
+          <a className="icon-div" href="tel:+917209602458">
             <div className="sm-icon-div">
               <FaPhone className="sm-icons" />
             </div>
             <span className="contact-text">Phone</span>
           </a>
 
-          <a className="icon-div" href="mailto:suryanalam3011@gmail.com">
+          <a className="icon-div" href="mailto:razashoaib270@gmail.com">
             <div className="sm-icon-div">
               <IoMail className="sm-icons" />
             </div>
@@ -73,7 +73,7 @@ const Contact = () => {
 
           <a
             className="icon-div"
-            href="https://maps.app.goo.gl/KARZ4HPxj64YuaWA8"
+            href="https://maps.app.goo.gl/mEQuTFcSZa6JEPth8"
           >
             <div className="sm-icon-div">
               <FaMapMarkerAlt className="sm-icons" />
@@ -84,7 +84,7 @@ const Contact = () => {
 
           <a
             className="icon-div"
-            href="https://www.linkedin.com/in/nalamsurya"
+            href="https://www.linkedin.com/in/razashoaib270"
             target="_blank"
             rel="noreferrer"
           >
@@ -96,7 +96,7 @@ const Contact = () => {
 
           <a
             className="icon-div"
-            href="https://www.github.com/suryanalam"
+            href="https://github.com/Shoaib-raza-01"
             target="_blank"
             rel="noreferrer"
           >

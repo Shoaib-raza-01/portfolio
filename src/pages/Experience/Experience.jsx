@@ -9,39 +9,41 @@ const Experience = () => {
         <section className="experience-section-bg" data-aos = "fade-up">
           <section className="company-logo-bg">
             <img
-              src={process.env.PUBLIC_URL + "/assets/externsclub.png"}
-              alt="externsclub"
+              src={process.env.PUBLIC_URL + "/assets/schoolpen.jpeg"}
+              alt="schoolpen"
               className="company-logo"
             />
           </section>
 
           <section className="title-section">
-            <h2 className="role">Full Stack Developer Intern</h2>
-            <span className="duration">Sept'23 - Present</span>
+            <h2 className="role">Flutter Intern</h2>
+            <span className="duration">Sept'23 - Oct'23</span>
           </section>
 
           <span className="company-info">
-            Externsclub Pvt Ltd - Benguluru, Karanataka
+            AIE services Pvt Ltd - Benguluru, Karanataka
           </span>
 
           <h4 className="work-list-title">Roles and Responsibilities</h4>
 
           <ul className="work-list">
             <li>
-              Engineered a CRM application to manage the sales and
-              employee data efficeintly in an organization.
+              Developed app components and screen UI provided in figma using flutter .
             </li>
             <li>
               Crafted an intuitive interface with a responsive design, ensuring
               all users to utilize the application across various devices.
             </li>
             <li>
-                Features: Payments Gateway Integration, Google Sheets Synchronization, Dynamic Charts Data, Import & Export CSV files functionality.
+                Features: Payments Gateway Integration, Google Maps Integration, Dynamic Charts Data.
+            </li>
+            <li>
+                <b><a href="https://github.com/Shoaib-raza-01/AIE_Exam_UI">Github</a></b>
             </li>
           </ul>
         </section>
 
-        <section className="experience-section-bg" data-aos = "fade-up">
+        {/* <section className="experience-section-bg" data-aos = "fade-up">
           <section className="company-logo-bg">
             <img
               src={process.env.PUBLIC_URL + "/assets/celebal.png"}
@@ -74,7 +76,7 @@ const Experience = () => {
               the internship.
             </li>
           </ul>
-        </section>
+        </section> */}
       </div>
     </section>
   );

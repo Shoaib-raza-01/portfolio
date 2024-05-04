@@ -56,7 +56,7 @@ const Projects = () => {
             >
               GitHub
             </a>
-
+{/* 
             <a
               href={projects[projectIndex].webapp_live_link}
               target="_blank"
@@ -64,7 +64,7 @@ const Projects = () => {
               className="project-link"
             >
               Live
-            </a>
+            </a> */}
           </div>
         </div>
       </div>

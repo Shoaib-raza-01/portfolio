@@ -9,8 +9,7 @@ const About = () => {
         <div className="about-left" data-aos = "fade-up">
           <p className="about-desc">
             An undergraduate student with a focused and enlightened personality
-            with a decent skill set in frontend technologies and graphic
-            designing.
+            with a decent skill set in frontend technologies and android apps.
             <br />
             <br />
             Being Enthusiastic, he is splendid at communication additionally, he
@@ -21,8 +20,8 @@ const About = () => {
             <br />
             As per the technical skills, he has a good understanding of core
             concepts in computer science and engineering like OOPS, DBMS, OS,
-            and Networking as well as frontend technologies like HTML5, CSS3,
-            JavaScript, Bootstrap, JQuery, and ReactJs.
+            and Networking as well as technologies like HTML5, CSS3,
+            JavaScript, Django, Flutter, and ReactJs.
           </p>
         </div>
         <div className="about-right" data-aos = "fade-up">
